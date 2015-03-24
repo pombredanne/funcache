@@ -1,4 +1,4 @@
-FunctionCache
+FunCache
 =======================
 
 A Python package for caching function calls.
